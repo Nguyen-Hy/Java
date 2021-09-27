@@ -2,7 +2,7 @@ package BaiTap;
 
 import java.util.Scanner;
 
-public class TimXTrongTuGiac {
+public class Main {
 
     public static void main(String[] args) {
 
