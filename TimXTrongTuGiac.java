@@ -40,7 +40,7 @@ public class Main {
 
                          System.out.println("nhap so do 1 goc nam ngoai ");
                          c = scanner.nextInt();
-                         int doiGocKeBu = 188 - c;
+                         int doiGocKeBu = 180 - c;
                          int sum = 360 - a - b - doiGocKeBu;
                          System.out.println("x = " + sum);
                           break;
@@ -65,7 +65,7 @@ public class Main {
                          b = scanner.nextInt();
                          c = scanner.nextInt();
                          a = scanner.nextInt();
-                         int doiGocKeBu1 = 188 - a;
+                         int doiGocKeBu1 = 180 - a;
                          int doiGocKeBu2 = 180 - b;
                          int doiGocKeBu3 = 180 - c;
                          int sum = 360 - doiGocKeBu1 - doiGocKeBu2 - doiGocKeBu3;
